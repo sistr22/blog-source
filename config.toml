@@ -1,0 +1,16 @@
+baseURL = "http://sistr22.github.io"
+languageCode = "en-us"
+title = "Accessible Minimalism"
+theme = ["sam", "hugo-shortcode-gallery"]
+galleryLoadJQuery = true
+
+[[params.mainMenu]]
+    link = "/posts/"
+    text = "Posts"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "C'est qui ?"
+
+[imaging.exif]
+    includeFields = ".*"
