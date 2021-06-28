@@ -10,7 +10,7 @@ galleryLoadJQuery = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "C'est qui ?"
+    text = "About"
 
 [imaging.exif]
     includeFields = ".*"
