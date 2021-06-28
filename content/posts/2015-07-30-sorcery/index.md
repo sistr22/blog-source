@@ -16,7 +16,19 @@ If you like Sorcery 1, you'll be able to pursuit the same adventure with Sorcery
 
 The sky is not 100% blue, the music could be better, the "game" also miss achievements to push you to explorer different path of the story, and cloud saving would have saved you from keeping note, somewhere, the code you get at the end of the story (And probably loosing it).
 
-This mobile game is made by [inkle](http://www.inklestudios.com/), a studio founded in 2011 by 2 game developers in the UK. As game dev I have to mention [Inklewriter](http://www.inklestudios.com/inklewriter/), the tool behind Sorcery and The Banner Saga, designed to help you publish high quality interactive stories. Inklewriter is free (But I haven't found the license). It's a great tool to create this kind of book experience but also when creating cut scenes, [try it online](http://writer.inklestudios.com/)! Sorcery is premium so no iaps, no ads, no bad surprises.
+This mobile game is made by [inkle](http://www.inklestudios.com/), a studio founded in 2011 by 2 game developers in the UK. As game dev I have to mention [Inklewriter](http://www.inklestudios.com/inklewriter/), the tool behind Sorcery and The Banner Saga, designed to help you publish high quality interactive stories. Inklewriter is free (But I haven't found the license). It's a great tool to create this kind of book experience but also when creating cut scenes, [try it online](https://www.inklewriter.com/)! Sorcery is premium so no iaps, no ads, no bad surprises.
+
+{{< gallery
+    match="images/s*.png"
+    loadJQuery="true"
+    sortOrder="desc"
+    rowHeight="200"
+    margins="5"
+    resizeOptions="600x300 q90 Lanczos"
+    showExif="true"
+    previewType="blur"
+    embedPreview="true"
+    lastRow="nojustify" >}}
 
 Sorcery 1:
 {{< figure src="/images/play_badge.png" link=https://play.google.com/store/apps/details?id=com.inkle.sorcery1 alt="Google Play Store link Sorcery 1" target="_blank" class="storeBadge">}}
